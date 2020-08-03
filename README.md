@@ -1,5 +1,5 @@
 ## Node socket - Chat
-Esta es un chat web simple desarrollado con Node y socket web.
+Esta aplicación web consiste en un chat simple desarrollado con Node y socket web.
 
 ### Requerimientos
 
